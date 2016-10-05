@@ -15,7 +15,7 @@ def depth_crawl(url,depth):
     if len(uni_list) >= 1000:
         return
     
-    if depth <=4:
+    if depth <=5:
         time.sleep(1)
         urlhandler = urlopen(url)
         html = urlhandler.read()
