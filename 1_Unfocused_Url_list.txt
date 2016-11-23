@@ -393,6 +393,7 @@ https://en.wikipedia.org/wiki/Renewable_energy_in_Seychelles
 https://en.wikipedia.org/wiki/Renewable_energy_in_Asia
 https://en.wikipedia.org/wiki/Renewable_energy_in_Afghanistan
 https://en.wikipedia.org/wiki/Renewable_energy_in_Bangladesh
+https://en.wikipedia.org/wiki/Renewable_energy_in_Bhutan
 https://en.wikipedia.org/wiki/Renewable_energy_in_China
 https://en.wikipedia.org/wiki/Renewable_energy_in_India
 https://en.wikipedia.org/wiki/Renewable_energy_in_Kazakhstan
@@ -997,4 +998,3 @@ https://en.wikipedia.org/wiki/Greenhouse_Solutions_with_Sustainable_Energy
 https://en.wikipedia.org/wiki/United_States_Green_Building_Council
 https://en.wikipedia.org/wiki/Integrated_Authority_File
 https://en.wikipedia.org/wiki/Green_Building_(MIT)
-https://en.wikipedia.org/wiki/The_Green_Building_(Louisville,_Kentucky)
